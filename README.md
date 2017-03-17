@@ -9,3 +9,4 @@ Jogue o arquivo na raiz do site para buscar em suas subpastas arquivos que conte
 * Implementar segurança (hoje com querystring ?user=´md5´)
 * Enviar arquivos por email - método implementado, falta gatilho (talvez: "?email=1")
 * Rodar via console, sem a necessidade da interface web
+* Varrer arquivos a procura de strings (ex: 'password', 'mysql')
